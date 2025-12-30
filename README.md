@@ -75,7 +75,7 @@ Open http://localhost:8080
 
 ## Tech
 
-Java 21 • Spring Boot 3.2 • Thymeleaf + HTMX • Tailwind CSS • SpringDoc OpenAPI
+Java 21 • Spring Boot 3.2 • Thymeleaf + HTMX • Tailwind CSS
 
 ## History
 
